@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27924.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApprovalTest", "ApprovalTest\ApprovalTest.csproj", "{2B29FA51-F542-4516-993E-EA93686623DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPWorkflow", "SMTPWorkflow\SMTPWorkflow.csproj", "{2B29FA51-F542-4516-993E-EA93686623DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
