@@ -1,4 +1,4 @@
-# Project Title
+# Durable Functions SMTP Example
 
 This example demonstrates how to use Durable Functions to send a confirmation email via SMTP(Example using gmail). The user has 15 minutes to confirm or deny the email by clicking a link. The link in the email contains a code that is validated server side to ensure it was a valid click. This could easily be implemented to integrate within registration for a website or application.
 
